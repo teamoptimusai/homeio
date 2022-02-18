@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="assets/logo.png">
+<div >
+  <img src="assets/logo.png" width=120>
 </div>
 
 Keep up-to-date with release announcements and security updates by subscribing or watching this repository.
